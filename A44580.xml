@@ -1,0 +1,573 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An introduction to the Teutonick philosophie being a determination concerning the original of the soul, viz. whether it be immediately created God and infus'd into the body, or transmitted from the parent / by C. Hotham ... at the close of the dispute held in the publique schooles of the University of Cambridge at the Commencement, March 3, 1646 ; Englished by D.F.</title>
+            <title>Ad philosophiam teutonicam manuductio. English</title>
+            <author>Hotham, Charles, 1615-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44580</idno>
+            <idno type="STC">Wing H2896</idno>
+            <idno type="STC">ESTC R11445</idno>
+            <idno type="EEBO-CITATION">12254142</idno>
+            <idno type="OCLC">ocm 12254142</idno>
+            <idno type="VID">57273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 149:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An introduction to the Teutonick philosophie being a determination concerning the original of the soul, viz. whether it be immediately created God and infus'd into the body, or transmitted from the parent / by C. Hotham ... at the close of the dispute held in the publique schooles of the University of Cambridge at the Commencement, March 3, 1646 ; Englished by D.F.</title>
+                  <title>Ad philosophiam teutonicam manuductio. English</title>
+                  <author>Hotham, Charles, 1615-1672.</author>
+                  <author>Hotham, Durant, 1617?-1691.</author>
+               </titleStmt>
+               <extent>[26], 69, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. &amp; A.C. for Nath. Brooks ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Ad philosophiam teutonicam manuductio.</note>
+                  <note>Translated by Durant Hotham. Cf. DNB.</note>
+                  <note>"Imprimatur Novemb. 20, 1649 J. Downame"--P. [2] at end.</note>
+                  <note>Errata: p. [25].</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soul --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57273:1" rendition="simple:additions"/>
+            <pb facs="tcp:57273:1" rendition="simple:additions"/>
+            <p>AN INTRODUCTION TO THE TEVTONICK PHILOSOPHIE. <hi>Being</hi> A Determination concerning the Original of the Soul: <hi>vi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Whether it be immediately created GOD, and infus'd into the Body; or tranſmitted from the Parent.</p>
+            <p>
+               <hi>By</hi> C. HOTHAM, <hi>one of the Fellows of Peter-Houſe.</hi>
+            </p>
+            <p>At the cloſe of the Diſpute held in the publique Schooles of the Univerſity of <hi>Cambridge,</hi> at the Commencement, <hi>March</hi> 3. 1646.</p>
+            <p>Engliſhed by <hi>D.F.</hi>
+            </p>
+            <p>LONDON: Printed by <hi>T.M.</hi> &amp; <hi>A.C.</hi> for <hi>Nath. Brooks</hi> at the Angel in Corn-hill. 1650.</p>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:57273:2"/>
+            <pb facs="tcp:57273:2"/>
+            <head>To the Author.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>TRanſlations are things very diffi<g ref="char:EOLhyphen"/>cult, eſpecially where the Notion is uncouth: Yet hath this been my chief inducement to adventure upon this aſſay; my aim being to make the Notion familiar, by a tranſplanting into our Native ſoile. One thing I am happy in, that I have but one Judge, your ſelf; unto whoſe ſenſe if I have arrived, I have done well, and diſvalue the cenſure of the Critical world, as incompetent. But be the Author once dead, 'tis leſs dangerous to put to ſea in an egge-ſhel, then Tranſlate under the controll and ſubjection of the various ſtormy cen<g ref="char:EOLhyphen"/>ſures of each peeviſh fancy, when the deciſive Pole-ſtar is hid.</p>
+            <p>In the uncaſing your ſenſe from the Latine skin, I know you will think I
+<pb facs="tcp:57273:3"/>have torne fleſh and all away. But I muſt therein be pardoned, becauſe ſome Expreſſions and Elegancies in it are ſo peeviſh, that they walk dull, heavy, and without grace, when ſtript of their na<g ref="char:EOLhyphen"/>tive attire, except honoured with a coſt<g ref="char:EOLhyphen"/>ly circumſcription; in making of which according to my uſual botchery, I have ſometimes hid from your view their moſt comely parts. For in truth in is very hard to write good <hi>Engliſh;</hi> and few have attained its height in this laſt <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rie of Books, but Mr. <hi>M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lton.</hi>
+            </p>
+            <p>As to the matter and Author of the Teutonick Philoſophy, which you here abbreviate, though you know I alwayes affected it and him, yet durſt never ſaile into the Ocean of his vaſt Conceits with my little Scull; me thought the reading of him was like the ſtanding upon a pre<g ref="char:EOLhyphen"/>cipice, or by a Canon ſhot off, the waft of them lickt up all my brains.</p>
+            <p>I confeſſe, your <hi>Introduction</hi> hath made me ſomething more ſteddy, and his Notions more familiar; and I have found ſome inkling of them in Scripture, ſo have ſhaken hands with leſſe ſuſpi<g ref="char:EOLhyphen"/>tion.</p>
+            <pb facs="tcp:57273:3"/>
+            <p>
+               <hi>But may nothing ever appear more glori<g ref="char:EOLhyphen"/>ous to any man, or fuller of light, then the ſweet, humble, contemned life of our Sa<g ref="char:EOLhyphen"/>viour!</hi> Its true, the ſacred Writ is not plentifull in delivering the naturall frame and principles of the Soul, though the value of it is ſufficiently laid open by the price payed for its redemption, and the Meſſenger ſent to ſeeke it: So that drop of knowledge may perhaps be reſerved to make up the full ſea pro<g ref="char:EOLhyphen"/>miſed theſe laſt times. In my opinion, whoever reades this Scheme of the Worlds creation, and birth of the Soul, may make excellent uſe of it, review<g ref="char:EOLhyphen"/>ing his noble deſcent from thoſe eter<g ref="char:EOLhyphen"/>nall Eſſences, and ſhame to bemire him<g ref="char:EOLhyphen"/>ſelfe in that ſwine-like refreſhment of wallowing in cold dirty mire.</p>
+            <p>Our noble Genealogy ſhould minde us of our Fathers houſe, make us weary of the tutelage under hairy Faunes and cloven-footed Satyres, the rulers and inſtructers of our diſſolute youth, and riper yeares (though clothed by <hi>Archi<g ref="char:EOLhyphen"/>mago</hi> in Angelick garment) whoſe ſpell I hope is neer an end, &amp; put on thoughts
+<pb facs="tcp:57273:4"/>of eſcape out of this beaſtial ſlavery, into the Kingdome prepared for us.</p>
+            <p>As for this little Determination, me<g ref="char:EOLhyphen"/>thinks I ſee the fate of it, that it will be thought a fitter Preface to <hi>Ovid's Me<g ref="char:EOLhyphen"/>tamorphoſes,</hi> then an Introduction to any thing that is ſerious: ſo rude and barbarous is the eſteem of vulgar men, of any thing beyond their capacity.</p>
+            <p>Give me leave to ſet forth this one Paradoxe: That the nearer any book or Notion approacheth the Truth, the eaſiler and with more applauſe it may be contradicted, becauſe that in all conteſt the Vulgar being Judge, (by vulgar I mean the wiſeones of the world) the appeal is either to Reaſon, or Senſe, which are but the rulers and guides of the night, dim lights, ſet up far diſtant from Truths ſtately manſion, to lead poor groping ſouls in this worlds affairs. The bringing of Truth to their teſt, is like gold to a candle-light, in which all the impoſtures that can be named may be hid, maugre its diſcovery. No, it's a due temper of the Soule that muſt give light to ſuch diſquiſitions; which only
+<pb facs="tcp:57273:4"/>harboureth, acknowledgeth, judgeth, and receives that ſpriteful vivacious eſ<g ref="char:EOLhyphen"/>ſence of Truth. When the law of God hath rub'd off all the ſcales of the Ser<g ref="char:EOLhyphen"/>pent from our eyes, then ſhall we ſee and judge. <hi>He that doth my words,</hi> (ſaith our Saviour) <hi>ſhall know whether I ſpeak of the truth.</hi>
+            </p>
+            <p>Ceaſe ſhining, O ye <hi>Sun</hi> and <hi>Moon,</hi> and thou Eternal <hi>Archetype</hi> of all light! Vain mortal men have with the ſteele and flint of a <hi>Major</hi> and <hi>Minor</hi> Propo<g ref="char:EOLhyphen"/>ſition ſtruck out a fire and light directive of you all: This dark lanthorn of a <hi>Syl<g ref="char:EOLhyphen"/>logiſtical</hi> deduction, is made paramount to all; all elſe dim tapers, that are not mov'd in its <hi>Ecliptick.</hi>
+            </p>
+            <p>This ſeems harſh; but yet if well ob<g ref="char:EOLhyphen"/>ſerved, is a Gangrene ſpread through all Chriſtian religion. I will not ſay it, but it may be it is true, that the rigid addi<g ref="char:EOLhyphen"/>ction to this foundation hath nicknam'd many holy truths, and men, that believe God yet to be alive &amp; ſpeak, and that he hath not forſaken his Scepter, devolved all the rule of Orphan mankinde to this dangerous vertible principle.</p>
+            <pb facs="tcp:57273:5"/>
+            <p>But may that State ever proſper, whoſe wiſe hands mould a generous free<g ref="char:EOLhyphen"/>dome productive of noble conceits, dreſ<g ref="char:EOLhyphen"/>ſing a fit Stage for our Saviours ſecond coming; who, ſhould he come as former<g ref="char:EOLhyphen"/>ly in ſubmiſſion to mans power, would be found in the inquiſition or under the laſh of ſome dire Decree; ſo all-compre<g ref="char:EOLhyphen"/>henſive and omniſcient is every preſent age of all truth, dividing it from falſhood to a haire in their grave Councels; with penalty of <hi>huc uſque &amp; non ultra.</hi>
+            </p>
+            <p>But to return to my Paradox: <hi>Eliſha</hi>'s ſervant having no other comfort then what humane reaſon afforded, bemoans his maſters certain ruine by the hand of the <hi>Aſſyrians;</hi> The Prophet opens his eyes, he ſees help enough: certainly this was no conjuring trick, nor prophetick viſion, but what was reall, though the ſervant ſaw it not before.</p>
+            <p>But had now ſome great Philoſopher and maſter of reaſon, been ſtanding by, and a diſpute inſtituted betwixt him and the Prophet, concerning the Hoſt and the Chariots, the Townſemen of <hi>Do<g ref="char:EOLhyphen"/>than</hi> being Judges, had it not been
+<pb facs="tcp:57273:5"/>eaſie to have made the Prophet ſeem a foole, and the people believe his eyes chim'd? He might have askt where the Hoſt was; and when the Pro<g ref="char:EOLhyphen"/>phet had deſign'd the place, the Philo<g ref="char:EOLhyphen"/>ſopher taking with him a competent number of the by-ſtanders, might have gone and ſtood in the ſame place, and ſung his triumphal ſong: <hi>Non dantur duo corpora in eodem loco, nec penetratio di<g ref="char:EOLhyphen"/>menſionum; ergò deceptus es:</hi> with many ſuch fine devices; and have tript up the poor Prophets credit, with acclamation of the people. And ſuch is and will be the fate of all deep Diſcoveries, and high Repreſentations, brought before that ignorant Tribunal of Senſe and Vulgar reaſon.</p>
+            <p>But I am out of my way: Be the Au<g ref="char:EOLhyphen"/>thor what he will, or his ſucceſſe; or yours the Propoſer: ſeeing my ignorance hath ſet me far out of the reach of ſuch high things, I ſhall content my ſelf with an uſuall effect of admiraton, ſilence; rather then approve, or diſapprove: And wiſh the world would make uſe of that ex<g ref="char:EOLhyphen"/>cellent rule of Saint. <hi>Auſtin, <g ref="char:V">Ʋ</g>t tam<g ref="char:EOLhyphen"/>diu
+<pb facs="tcp:57273:6"/>verſemur in diligenti conſidera<g ref="char:EOLhyphen"/>tione quod legitur, uſque dum ad re<g ref="char:EOLhyphen"/>gnum charitatis interpretatio perdu<g ref="char:EOLhyphen"/>catur.</hi> However, may Gods bleſſing water the deſires of every heart that is zealous for good, and the advancement of Gods kingdome <hi>in individuis.</hi> For fruitleſſe are the hopes, and the labour vain of all that will build living houſes of dead ſtones: but give the ſtones once life, and they will creep into a building: Sympathy and union are the convertible effects of life. Therefore let all wiſe men ſtand ſtill at <hi>Perez-<g ref="char:V">Ʋ</g>zzah,</hi> and con<g ref="char:EOLhyphen"/>ſider.</p>
+            <p>
+               <hi>Sir,</hi> I have now in ſome meaſure ſa<g ref="char:EOLhyphen"/>tisfied the engagement laid upon me, with many others, in your unlocking the door to theſe Myſteries, by ſetting it yet wider open for all Engliſh-men that pleaſe to enter and ſatisfie their curio<g ref="char:EOLhyphen"/>ſity: If you accept my paines, I am re<g ref="char:EOLhyphen"/>ingaged, and muſt remain</p>
+            <closer>
+               <signed>Yours obliged, <hi>
+                     <g ref="char:V">Ʋ</g>nus ex multis.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:57273:6"/>
+            <head>To the Right Worthy, the Vice-Chancellour, and the Honourable Univer<g ref="char:EOLhyphen"/>ſity of <hi>Cambridge.</hi>
+            </head>
+            <head type="sub">
+               <hi>Be health and happineſſe.</hi>
+            </head>
+            <p>THat I have made bold to take up again, and revive with your ho<g ref="char:EOLhyphen"/>nourable Patronage this ſmall work, by this time well nigh dead and buried, expoſing it to publique view; we hope, will by you be eſteemed neither unbeſeeming your honour, nor beneath our duty.</p>
+            <p>Your noble favor and patience, whoſe ſweet company carried me on with plea<g ref="char:EOLhyphen"/>ſure through the burdens of that office you were once pleaſed to honor me with, and which cheared the delivery of theſe
+<pb facs="tcp:57273:7"/>rugged Notions, ſets me in the debt of infinite obligations; which till I can diſcharge, be pleas'd to accept this ſcroll of paper as a Bond.</p>
+            <p>And truly, while I was thus meditate<g ref="char:EOLhyphen"/>ing thankfulneſſe; the report, that theſe eſſayes, and my ſelf were by ſome ad<g ref="char:EOLhyphen"/>judged both hereticall, added vigour to my firſt reſolution; ſeeing I muſt needs eſteem their opinion, onely a defect of memory and advertency, whom that I might fully ſatisfie with all well-mean<g ref="char:EOLhyphen"/>ing men, I have ſet Pen to Paper, and publiſhed them in the ſame dreſſe my memory did then ſuggeſt them to my tongue.</p>
+            <p>Now, of the matter let the learned judge: For what concernes my ſelfe, I wonder thoſe good men did not perceive, Firſt, That I ſet before them anothers Philoſophy, not mine owne; Secondly, That my ſelfe likewiſe ſtood aloofe from peremptory aſſent to ſome of thoſe things that were delivered; Thirdly, well<g ref="char:EOLhyphen"/>knowing in what uneven way I tra<g ref="char:EOLhyphen"/>velled, nor ſufficiently confiding in the ſupport of mine owne judgement, I beg<g ref="char:EOLhyphen"/>ged,
+<pb facs="tcp:57273:7"/>and I hope obtained pardon of all mine errours; which leſt I ſhould faile of in the publication, I have adjoyn<g ref="char:EOLhyphen"/>ed the Epilogue then uſed, which I doubt not but will be ſucceſſefull to both.</p>
+            <p>And certainly if pardon belong to a<g ref="char:EOLhyphen"/>ny, it is to the ſilent, ſolemn Sceptick, whoſe opinions are not brought forth as the onely heires-male to all humane aſ<g ref="char:EOLhyphen"/>ſent, invading the worlds freedom with fire, faggot, and thunder.</p>
+            <p>And may I be in the bed-route of thoſe Seekers, that diſtruſting the known and experienced deceits of their owne reaſon, walk unfetterr'd in the queſt of truth, with an eaſie ſuſpitious gate, not hunting thoſe poore ſoules with Dogge and Speare, whoſe dimme ſight hath led them into deſert and un<g ref="char:EOLhyphen"/>beaten paths.</p>
+            <p>Certainly, more ſoules have crept to the throne of Wiſdome; with the thin-ſpun clew of Right-opinion, then ere have drawne her downe with the ſtiffe cart-rope of irreſragable Syllo<g ref="char:EOLhyphen"/>giſmes.</p>
+            <pb facs="tcp:57273:8"/>
+            <p>This ſuppoſed certain ſcience of what is good and right, believe me, (O you noble <hi>Athenians</hi>) is the true <hi>ignis fa<g ref="char:EOLhyphen"/>tuus,</hi> whoſe ſmal glimmering expires in palpable darkneſſe.</p>
+            <p>Would you ſaile in the Philoſophers Ocean; know that two Ilands there are of exceeding danger, yet built upon and inhabited, and defended, as part of the main continent of Truth: The firſt is called, <hi>I believe as the Church be<g ref="char:EOLhyphen"/>lieveth.</hi> Happy men, whom ſo eaſie la<g ref="char:EOLhyphen"/>bour hath ſet on the ſhore of wiſdome! And happy that narrow point, that hath devoured ſo large a circumference! The other is called, <hi>Whatſoever the Church believes, that will not I believe.</hi> And here they think they are ſafe: Theſe, if all the old Hereſies were tranſlated into the Churches Canon; they would leave them, and embrace our relinquiſh' t faith, crying it up as their great <hi>Diana.</hi>
+            </p>
+            <p>Both theſe rocks I have alwayes ſtu<g ref="char:EOLhyphen"/>diouſly avoided: The Decrees of the Church, that is, (if I may ſpeak freely) the prevailing part of the preſent Age, were never my <hi>Hercules his pillars,</hi> that
+<pb facs="tcp:57273:8"/>I thought it unlawfull to look beyond them. I have often read and ſmil'd, and ſmiled and read <hi>Mirandula, Gaſ<g ref="char:EOLhyphen"/>ſendus,</hi> and other famous wits of the latter Age, delivering their choice no<g ref="char:EOLhyphen"/>tions diametrically oppoſite to the decrees of that Age, with this civil comple<g ref="char:EOLhyphen"/>ment, Of ſubmiſſion to the Church of <hi>Rome,</hi> (which it ſeems) diſproves not a reputed Hereſie, ſo ſhe wait upon her in the garb of an handmaid.</p>
+            <p>Notwithſtanding, though I doe not a<g ref="char:EOLhyphen"/>dore the unanimous conſent of good and pious men; yet I receive it with much reverence, eſpecially in a ſacred matters 'tis neither my fetter, nor my ſcandal.</p>
+            <p>I profeſſe, I am not of thoſe that think the myſteries of Religion may be rudely unraveled, or its publique Profeſſors beſpatter'd with every Parrots tongue; for mine own particular, the ſtudies of the divineſt Philoſophy have ſuckt me in from my childe-hood; and for ſuch an one, I never eſteem'd it unlawfull, or diſ<g ref="char:EOLhyphen"/>approved by any ſober man, modeſtly to to diſpute, and diſcuſſe even the higheſt matters, eſpecially in a learned Audito<g ref="char:EOLhyphen"/>ry.</p>
+            <pb facs="tcp:57273:9"/>
+            <p>As for theſe notions with which you are preſented, you have them not from me as <hi>Sibilline Oracles,</hi> ſuch as I ei<g ref="char:EOLhyphen"/>ther know or fully believe to be true, nor perhaps ever ſhall, till convinced with the ſame light that illuminated the Divine Author: however let them ſit among Probables, till He come that ſhall come.</p>
+            <p>I deny not but that much may be ob<g ref="char:EOLhyphen"/>jected againſt them, and that not eaſily anſwered; but 'twill befit him that un<g ref="char:EOLhyphen"/>dertakes this taske, likewiſe to ſet forth another ſcheme of the infinite Eternity, and delineation of the <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſe, in which is no contradictory in<g ref="char:EOLhyphen"/>conſonancy, and neerlier agreeing with the ancienteſt Philoſophy and ſacred Scripture.</p>
+            <p>I ſpeake plainly what I at this pre<g ref="char:EOLhyphen"/>ſent thinke.</p>
+            <p>Whatſoever the Thrice-great <hi>Hermes</hi> deliver'd as Oracles from his Propheti<g ref="char:EOLhyphen"/>call <hi>Tripos,</hi> or <hi>Pythagoras</hi> ſpake by authority, or <hi>Socrates</hi> debated, or <hi>Ari<g ref="char:EOLhyphen"/>ſtotle</hi>
+               <pb facs="tcp:57273:9"/>affirmed; yea, whatever divine <hi>Plato</hi> propheſied, or <hi>Plotinus</hi> proved; this, and all this, or a far higher and profounder Philoſophy is (I think) con<g ref="char:EOLhyphen"/>tained in the <hi>Teutonicks</hi> writings. And if there be any friendly medium which can poſſibly reconcile thoſe ancient dif<g ref="char:EOLhyphen"/>ferences between the Nobler Wiſdom which hath fixt her Palace in Holy writ, and her ſtubborn hand-maid, Naturall Reaſon; this happy marriage of the Spi<g ref="char:EOLhyphen"/>rit and the Soul, this wonderfull con<g ref="char:EOLhyphen"/>cent of diſcords in one harmony, we owe in great meaſure to <hi>Teutonicus</hi> his skill.</p>
+            <p>Onely let not the non or miſunder<g ref="char:EOLhyphen"/>ſtanding even of the moſt rationall Rea<g ref="char:EOLhyphen"/>der (if not a little ſublim'd above the ſphere of common reaſon) be imputed as a fault to this elevated Philoſopher, no more then 'twas to the divine <hi>Plotine,</hi> whoſe higheſt notions many even of his owne School, after much ſtudy, were not able to reach.</p>
+            <p>And with this proviſo, I doubt not but the height of what I here pro<g ref="char:EOLhyphen"/>miſe, will be abundantly performed by
+<pb facs="tcp:57273:10"/>the Authors Book of the <hi>Three Prin<g ref="char:EOLhyphen"/>ciples,</hi> which as I am informed is now at Schoole, and will in few moneths be taught our language.<note n="a" place="bottom">This Book was publiſhed <hi>Ann.</hi> 1648.</note> In the mean time may your noble favour accept my poor pains in taking off the dark ſtyle of the Authors magick language from theſe abſtruſe Notions, attiring them in a garbe as ſutable to the common eye, as their ſtrange proportion would be are.</p>
+            <p>And you the renowned Youth of both the Schools, the darlings of your times, whoſe learning, modeſty, and piety, mi<g ref="char:EOLhyphen"/>raculouſly unproportioned to your Age, will be an enſample to future generati<g ref="char:EOLhyphen"/>ons; it was for your cauſe chiefly, that for one night or two, I bade ſweet ſleep and eaſe adieu (both at other times very acceptable) that under the protection of the ſilent Moon, I might lead you into the inmoſt receſſes of the more ſacred Phi<g ref="char:EOLhyphen"/>loſophy: To you my deareſt fellow-ſtu<g ref="char:EOLhyphen"/>dents (your high merit challenging no leſſe) is this <hi>Enchiridion</hi> principally de<g ref="char:EOLhyphen"/>dicated.</p>
+            <pb facs="tcp:57273:10"/>
+            <p>Had I found your minds and man<g ref="char:EOLhyphen"/>ners diſingenuous, and uncivil, I had ſufficient proviſion of <hi>Entelechia's</hi> and <hi>Haecceities</hi> proportionable to ſuch ruſtick diſpoſitions; but the ſweet unſpotted hu<g ref="char:EOLhyphen"/>mane Genius which I have experienced to be in you, made me, as for my choiſeſt Friends, broach this my beſt veſſel of Di<g ref="char:EOLhyphen"/>vine Nectar; which</p>
+            <closer>
+               <salute>Enjoy, and Farewell.</salute>
+            </closer>
+         </div>
+         <div type="summary">
+            <pb facs="tcp:57273:11"/>
+            <pb facs="tcp:57273:11"/>
+            <p>
+               <hi>The Queſtions then pro<g ref="char:EOLhyphen"/>pounded by the ſever<g ref="char:EOLhyphen"/>all Diſputants, were theſe.</hi>
+            </p>
+            <p>The Soule brings no Species with it into the Body.</p>
+            <p>The Worlds Creation may be known by the light of Na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>The Will diſobeying an er<g ref="char:EOLhyphen"/>roneous <g ref="char:V">Ʋ</g>nderſtanding, ſins.</p>
+            <p>
+               <hi>The laſt Queſtion was by one of the PROCTORS then Reſpondent, thus freely ſtated.</hi>
+            </p>
+            <pb facs="tcp:57273:12"/>
+            <p>The two Opinions; the firſt affirming the Soules traducti<g ref="char:EOLhyphen"/>on from the Parent; the later, That 'tis created by GOD out of nothing; are either of them probable.</p>
+            <p>
+               <hi>The MODERATOR, having given the Diſpu<g ref="char:EOLhyphen"/>tants their</hi> Quietus eſt, <hi>de<g ref="char:EOLhyphen"/>termined as followeth.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:57273:12"/>
+            <head>To his moſt entire and highly <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſteem'd Friend: The Authors an<g ref="char:EOLhyphen"/>ſwer, concerning the obſcurity of the <hi>Teutonick Phlioſophy.</hi>
+            </head>
+            <l>MYy candid <hi>More!</hi> ſurceaſe thy ſou<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> affright:</l>
+            <l>Shades here are none, but that Majeſtic light</l>
+            <l>Vaile of high myſteries, Heavens canopy,</l>
+            <l>Which Gods pure Viſage hides from mortal e<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+            </l>
+            <l>Thus <hi>Sol</hi> enthron'd on high, with threatni<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> flames,</l>
+            <l>The Heaven-outfacing man's preſumption tam<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </l>
+            <l>But Gods bright Image in his works we view:</l>
+            <l>And <hi>Phoebus</hi> face the chryſtall waters ſhew;</l>
+            <l>And this my watry Mirror ſhall convay</l>
+            <l>To weaker eyes the great <hi>Teutonicks</hi> ray.</l>
+            <l>But to thy diſtant <hi>Vortex,</hi> richly deckt</l>
+            <l>With beams of thine own radiant Intellect,</l>
+            <l>Our <hi>Phoebus</hi> diſappears, and fame will ſay,</l>
+            <l>Hee's ſome yet unſeen <hi>Star</hi> i'th' <hi>Milky way.</hi>
+            </l>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:57273:13"/>
+            <head>ERRATA.</head>
+            <p>Preface. <hi>page 2. for</hi> honoured, <hi>read</hi> humour'd. <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtle <hi>pag. 5. read</hi> diſapproves. <hi>pag. 7. dele</hi> this <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>In the Determination, <hi>Pag. 12. read,</hi> and that it jointly ſignifieth the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>pag. 40. read</hi> cals. <hi>pag. 67. read</hi> fragrant. <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oft,</hi> hand.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:57273:13"/>
+            <head>To his worthily ho<g ref="char:EOLhyphen"/>noured and deare friend Maſter <hi>Charles Hotham,</hi> upon the ob<g ref="char:EOLhyphen"/>ſcureneſſe of the <hi>Teutonick Phi<g ref="char:EOLhyphen"/>loſophy</hi> deſcribed by him.</head>
+            <l>IKen no <hi>Teutonick,</hi> good <hi>Charles!</hi> Then vent</l>
+            <l>Thy ſelf, and thine own Ingenie depeint.</l>
+            <l>Write <hi>Hothamick,</hi> &amp; thine own ſenſe explain;</l>
+            <l>So ſhall thy learned page with force detaine</l>
+            <l>My raviſh'd mind. For what-ſo Piety,</l>
+            <l>Deep-brooding Silence, Alternations ſly</l>
+            <l>Of changing thoughts: What-ſo inſpired Love,</l>
+            <l>That with his golden wings doth gently move,</l>
+            <l>Thy heart-blood fanning to an heavenly flame:</l>
+            <l>What any, or all theſe together claime,</l>
+            <l>Will be the due of thoſe adorned Lines</l>
+            <l>Wherein thine own Soules image cleerly ſhines.</l>
+            <l>But now through unknown paths and dark<g ref="char:EOLhyphen"/>ſome places</l>
+            <l>Thou lead'ſt us, with wrinch'd feet, and limping paces:</l>
+            <pb facs="tcp:57273:14"/>
+            <l>In mids of thoſe broke-windings, Cold invades</l>
+            <l>My ſtoniſht mind, and Horrour in the ſhades.</l>
+            <l>Yet while I look upon thy Candour bright,</l>
+            <l>To ſudden day ſtraight turns this hideous night</l>
+            <l>While I thy Morals and well-meaning Will</l>
+            <l>Conſider, in this night I feare no ill:</l>
+            <l>Yea more, well weighing thy far-ſearching wit then ſuſpect ſome good lies hid in it.</l>
+            <closer>
+               <signed>H. More.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:57273:14"/>
+            <p>
+               <seg rend="decorInit">N</seg>O Knowlege in the world hath more attendant difficulties, then that of our ſelvs; Thoſe ſlie ſpiri<g ref="char:EOLhyphen"/>tuall Eſſences being too ſubtile for the Senſes anatomy. Hence is it, that both Philoſophers and Divines, in their dark con<g ref="char:EOLhyphen"/>teſts, have as yet fill'd the world onely with doubts concerning the Original of the humane and immortal Soule, and its con<g ref="char:EOLhyphen"/>junction with the mortal Body.</p>
+            <p>The variety of diſſenting o<g ref="char:EOLhyphen"/>pinions (to ſpeak in a Phyſical ſenſe) comes little ſhort of in<g ref="char:EOLhyphen"/>finitude<g ref="char:punc">▪</g> Nor is there ſcarce that conſiderable part of Na<g ref="char:EOLhyphen"/>tures large circumference to be ramed, which hath not been
+<pb n="2" facs="tcp:57273:15"/>thought a worthy material, by ſome tume-ſick brain, to be car<g ref="char:EOLhyphen"/>ved out into a Soule.</p>
+            <p>But I will not trouble you with a Relation of the many ſe<g ref="char:EOLhyphen"/>veral gueſſes of doting Anti<g ref="char:EOLhyphen"/>quity; ſome of which, to our preſent Age, will ſeem to be dreams and fancies riſen from the groſſe vapours of over-fed bodies.</p>
+            <p>The more ſelect are theſe five, which I ſhall ſet down in order.</p>
+            <p>The firſt is attributed to the ancient Phyſician <hi>Galen,</hi> (with whom I believe the Sadduces agree) who (it ſeems aiming to bring ſoul as wel as body with<g ref="char:EOLhyphen"/>in the dominion of his Profeſ<g ref="char:EOLhyphen"/>ſion) affirms that the ſoul, as of men, ſo of bruit beaſts, is a meer due temper or active ſpirit a<g ref="char:EOLhyphen"/>riſing
+<pb n="3" facs="tcp:57273:15"/>from the commixture of Elements and Humours, and mortal, with their diſſoluti<g ref="char:EOLhyphen"/>on.</p>
+            <p>The ſecond is, of certain an<g ref="char:EOLhyphen"/>cient <hi>Arabians,</hi> and of our mo<g ref="char:EOLhyphen"/>dern <hi>Cardane;</hi> which is, That all Particular ſoules are but the emanation of the Univerſal ſoule of the world; or rather, that there are no particular ſoules at all, but that the Uni<g ref="char:EOLhyphen"/>verſal Spirit neceſſarily enacts all matter duly prepared for life; which it can no more ſub<g ref="char:EOLhyphen"/>ſtract from it, then the Sun can bridle its beames, or divert its light from rendring a perſpicu<g ref="char:EOLhyphen"/>ous body tranſlucid.</p>
+            <p>Theſe two opinions are main<g ref="char:EOLhyphen"/>tained either by Epicures, or as the Apoſtle calls them, men
+<pb n="4" facs="tcp:57273:16"/>without God in the world; the folly of which, not onely our Religion, but the joint-conſent of the wiſer Heathens hath rejected.</p>
+            <p>The third is that of the <hi>Pla<g ref="char:EOLhyphen"/>tonicks,</hi> who affirm the Earth on which we now live, not to be our native ſoile; and the Bo<g ref="char:EOLhyphen"/>dies which we weare, to be fet<g ref="char:EOLhyphen"/>ters of our ſlavery, enſignes and badges of our tranſgreſſion, to which our ſoules are confin'd for offences committed of old againſt their Creatour: That being all of them created by God in an equal and immacu<g ref="char:EOLhyphen"/>late eſtate, of rare perfection, the fountain &amp; firmament of which being coaduntion with the will of God, they fell to their own will, and by that meanes were
+<pb n="5" facs="tcp:57273:16"/>caſt out from the preſence of God, and confin'd to this world; in which, if under the dire School-miſtreſſe of miſeries, in<g ref="char:EOLhyphen"/>conſtancies, miſchances, morta<g ref="char:EOLhyphen"/>lities, they learned to reſeek that Eternal Immoveable, they are by the mercy of God reaſſumed into their own Country, being unchained from the gally of the Body.</p>
+            <p>This opinion is maintained by <hi>Hermes, Plato, Iamblichus, Plo<g ref="char:EOLhyphen"/>tinus,</hi> and by the whole School of the myſtical Philoſophy, and as I gueſſe, believed by moſt of the ancient and late Jewes, and in our Chriſtian Schools by the famous <hi>Origen.</hi>
+            </p>
+            <p>Notwithſtanding, ſome of that way do in this differ from the generality, That they ſup<g ref="char:EOLhyphen"/>poſe
+<pb n="6" facs="tcp:57273:17"/>all the legion of ſouls were not partakers in the tranſgreſ<g ref="char:EOLhyphen"/>ſion, but are ſome in every Age ſent down into undefiled bodies by divine diſpenſation, as guar<g ref="char:EOLhyphen"/>dians, inſtructers, and promo<g ref="char:EOLhyphen"/>ters of the captived ſoules into their ancient inheritance and loſt freedome. But that thoſe ſoules whom the hard apprenti<g ref="char:EOLhyphen"/>ſhip and ſervitude under things mortal, finite, empty, dark, could not ſtirre to a deſire and preparation to things eternal, immenſe, and infinite; thoſe are either winnowed over again in humane bodies, or deſcend into irrationality, and are clo<g ref="char:EOLhyphen"/>thed with bodies ſuitable to their groveling minds, and after fall down into plants, till at laſt they vaniſh into their firſt nothing.</p>
+            <pb n="7" facs="tcp:57273:17"/>
+            <p>But ſurely this opinion, not<g ref="char:EOLhyphen"/>withſtanding its glorious de<g ref="char:EOLhyphen"/>duction, and that it hath ſpirit and light in it beſeeming thoſe Heroick wits that brought it forth; yet to us Chriſtians that have freed our underſtandings by a voluntary captivity to Sa<g ref="char:EOLhyphen"/>cred Writ, which delivereth to us mans firſt creation, his fall, and the contagion on his whole progenie; Adde alſo the bodies reſurrection, its union again with the ſoule, and everlaſting puniſhment in hell-fire for the wicked: Theſe, I ſay, being con<g ref="char:EOLhyphen"/>ſidered to be in an exact oppo<g ref="char:EOLhyphen"/>ſition, we will without further examination bury it with ho<g ref="char:EOLhyphen"/>nour, as the beſt and nobleſt Eſſay natural man hath attained unto.</p>
+            <pb n="8" facs="tcp:57273:18"/>
+            <p>The fourth is maintained by the greateſt part of the Divines in Chriſtendome, and is, That the ſoule of man, immediately upon the compleating of all the parts of the body, at leaſt thoſe of abſolute uſe, is created of no<g ref="char:EOLhyphen"/>thing, and in the inſtant of cre<g ref="char:EOLhyphen"/>ation infus'd into the body.</p>
+            <p>The fifth, ſeems to be the opi<g ref="char:EOLhyphen"/>nion of the learned <hi>Reſpondent,</hi> yet without any impetuous diſ<g ref="char:EOLhyphen"/>approbation of the former; with whom many famons Wits of this Age do concurre, nor doth it want ſome approbation from reputed Antiquity. And thus they deliver it: That the humane ſoul of the Infant hath its original from the Parents ſeed.</p>
+            <p>Now which of theſe be trucſt,
+<pb n="9" facs="tcp:57273:18"/>no demonſtrable Reaſon hath yet decided. At this preſent time with the favour of the Noble Auditors, we ſhall caſt anchor upon neither, but in a free diſ<g ref="char:EOLhyphen"/>cuſſion ſound each its bottome.</p>
+            <p>The grounds they build up<g ref="char:EOLhyphen"/>on are taken either from the ſa<g ref="char:EOLhyphen"/>cred Scriptures, or principles of Philoſophy: the latter I ſhall omit, as having cleerly been diſ<g ref="char:EOLhyphen"/>cuſs'd by the acuteneſſe and judgment of the late Diſputants; and for the authorities taken from Sacred writ, I ſhall weigh them in the balance of theſe two ſmall Concluſions.</p>
+            <p>Firſt, that nothing is either ſo peremptorily or plainly de<g ref="char:EOLhyphen"/>livered in Sacred writ, in deter<g ref="char:EOLhyphen"/>mination of either opinion, that it excludes the queſtion from all
+<pb n="10" facs="tcp:57273:19"/>further debate, or renders the favourers of either opinion He<g ref="char:EOLhyphen"/>retical or unbelieving.</p>
+            <p>Secondly, that all the places of Scripture ingenuouſly com<g ref="char:EOLhyphen"/>pared together, give more ſtrong evidence and authority to the maintainers of the Soules deri<g ref="char:EOLhyphen"/>vation from the loines of the Parent, then to thoſe that af<g ref="char:EOLhyphen"/>firm that God is immediately aſſiſtant to the production of every <hi>Individuall.</hi>
+            </p>
+            <p>Theſe two concluſions I ſhall joyntly proſecute.</p>
+            <p>
+               <hi>Object.</hi> 1.] That then which meets us in the firſt place, <hi>viz.</hi> That in the beginning of the Worlds creation, we finde the Earth and Water made the firſt Mother and Nurſe of all inferi<g ref="char:EOLhyphen"/>our living ſoules, by the com<g ref="char:EOLhyphen"/>manding
+<pb n="11" facs="tcp:57273:19"/>word of the Almighty; but God himſelf declared the Father of mans ſoule, in giving him life by the divine efflux of his breath.</p>
+            <p>
+               <hi>Anſ.</hi> 1.] This, if urged for the firſt fountain of mans ſoule, hath ſome weight in it; but no deductive evidence to exempt the humane off-ſpring from ſelf-multiplication or ſeed in it ſelf, with which God endued all kindes of life beſides; nay, rather it is from the Epilogue of the Creation otherwiſe evi<g ref="char:EOLhyphen"/>dent, <hi>[Increaſe and multiply]</hi> un<g ref="char:EOLhyphen"/>der which command <hi>Adam</hi> and his Conſort were expreſſely in<g ref="char:EOLhyphen"/>cluded; and in the proceſſe of the ſtory, it is declared, <hi>Adam</hi> did fulfill that command, and begot a Son in his own Image;
+<pb n="12" facs="tcp:57273:20"/>and afterwards ſeventie Soules are ſaid to have iſſued out of <hi>Jacobs</hi> loins.</p>
+            <p>But I am not ignorant, that the word Soule in Scripture, is of very ambiguous interpreta<g ref="char:EOLhyphen"/>tion; nor is alwayes ſignificant of that ſuperiour part, of which the queſtion is ſtated: but is ſometimes uſed for fleſh and bo<g ref="char:EOLhyphen"/>dy, as in the 21. of <hi>Leviticus, [He ſhall not come at a dead ſoule,]</hi> (ſo runs the Original expreſ<g ref="char:EOLhyphen"/>ſion) yet moſt generally it de<g ref="char:EOLhyphen"/>noteth the Soule and its affecti<g ref="char:EOLhyphen"/>ons, or the intire perſon made up of the ſoule and body joint<g ref="char:EOLhyphen"/>ly: but that in this place it on<g ref="char:EOLhyphen"/>ly ſignifieth the Soule, I am hence convinced.</p>
+            <p>In the compariſon and pre<g ref="char:EOLhyphen"/>lation of Chriſts Prieſthood be<g ref="char:EOLhyphen"/>fore
+<pb n="13" facs="tcp:57273:20"/>the Levitical, the Apoſtles proofs are thus; that <hi>Levi</hi> in <hi>Abraham</hi>'s loins paid tithes to <hi>Melchiſedeck.</hi> If here the ſoule of <hi>Levi</hi> be not jointly meant, the argument deſtroyes it ſelf: for the body likewiſe of Chriſt was in <hi>Abraham</hi>'s loins, and paid tithes to <hi>Melchiſedeck,</hi> whereby the preheminence would ceaſe; and as for conviction from the argument, the two Prieſt<g ref="char:EOLhyphen"/>hoods remain ſtill in equall ho<g ref="char:EOLhyphen"/>nour.</p>
+            <p>But I return whence I ſtraied. God in the beginning, is ſuppo<g ref="char:EOLhyphen"/>ſed by an immediate preſence to have applyed himſelf not onely to the framing of mans ſoule, but the kneading of his body too: but ſince that time, it is confeſſed, he hath delivered the
+<pb n="14" facs="tcp:57273:21"/>worke of the body to mediate inſtruments. How invalid there<g ref="char:EOLhyphen"/>fore is that argument of Gods immediate aſſiſtance to the fra<g ref="char:EOLhyphen"/>ming of the original piece, to evince ſo cloſe an aſſiſting to the production of al ſucceſſive ſouls?</p>
+            <p>The Earth likewiſe in the be<g ref="char:EOLhyphen"/>ginning brought forth every Beaſt and Plant; the Water, Fiſh, and Fowl: but now both Earth and water have ceaſed teeming, and the whole Creation moves into infinite particulars, by the inexhauſtible force of multipli<g ref="char:EOLhyphen"/>cation infuſed into the Earth's and Waters firſt fry, by God Al<g ref="char:EOLhyphen"/>mighty. Be it therefore far from us, to think that the manner and circumſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nces of the firſt Creation ſhould be the perpetu<g ref="char:EOLhyphen"/>all mode of all future producti<g ref="char:EOLhyphen"/>on
+<pb n="15" facs="tcp:57273:21"/>of ſoules; affixing ſterility, that curſe of Gods creatures, to the divine off-ſpring; and not rather think that the divine iſſue of Gods mouth was as full of radiant life, and as through<g ref="char:EOLhyphen"/>ly furniſht with poſſibilities of propagation into thouſands of thouſands in its own kinde, as that childe of the droſſie Earth, the Brutall ſpirit, is fruitfull in his kinde:</p>
+            <p>But they ſay, that by many places of Scripture it is evident that God yet attendeth the no<g ref="char:EOLhyphen"/>ble work of creation of Soules; as in that place, <hi>[The Soules would faile before me, that I have made:]</hi> and that other; <hi>[Who formeth the ſpirit of man in him]</hi> with that of <hi>Eliphaz, [The breath of the Almighty enlivened me.]</hi>
+            </p>
+            <pb n="16" facs="tcp:57273:22"/>
+            <p>To theſe the maintainers of Traduction anſwer with much eaſe and ſatisfaction; That all theſe places argue no other then the fatherly care and providence of Gods intent over man, as our Saviour expreſſes it, <hi>more then Sparrows:</hi> his more carefull pre<g ref="char:EOLhyphen"/>ſidence over the nativities and production of men then beaſts; and this not over their ſoul on<g ref="char:EOLhyphen"/>ly, for which thoſe places are urged, but over their bodies al<g ref="char:EOLhyphen"/>ſo; as in the 33. <hi>Pſalm,</hi> (if the <hi>infuſiats</hi> will grant us but an e<g ref="char:EOLhyphen"/>quall latitude with them of in<g ref="char:EOLhyphen"/>terpreting) <hi>[framing ſeverally one by one the hearts of them,]</hi> the like of w<hi rend="sup">ch</hi> expreſſion is not through out concerning the Soule: and that of <hi>Job, [Thou haſt powred me out like Milke, and crudled me
+<pb n="17" facs="tcp:57273:22"/>like Cheeſe. Thou haſt cloathed me with skin and fleſh, and haſt fen<g ref="char:EOLhyphen"/>ced me with bones and ſinewes]</hi> Now if the mention of Gods immediate workmanſhip of each particular body, hath no force of argument to affirm that they have no relation of a ple<g ref="char:EOLhyphen"/>nary Son-ſhip to the naturall viſible Parent; neither doe all thoſe other of the Soule.</p>
+            <p>
+               <hi>Ob.</hi> 3. <hi>&amp;</hi> 4.] But there re<g ref="char:EOLhyphen"/>main Scriptur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of more and greater force, in which God is ſet forth as the authour and maker of the Soule, in a peculiar and diſtinct manner from the body, where he is called <hi>[the Father of ſpirits]</hi> and in <hi>Eccleſi<g ref="char:EOLhyphen"/>aſtes,</hi> where the body is ſaid to <hi>[return to the Earth from whence it came, and the ſpirit to God that gave it.]</hi>
+            </p>
+            <pb n="18" facs="tcp:57273:23"/>
+            <p>
+               <hi>Anſ. ad</hi> 3.] For the firſt Scri<g ref="char:EOLhyphen"/>pture, if no Goſpel had been, nor our Saviours diſpute with <hi>Nicodemus</hi> recorded by Holy writ, wherein that deep point of Regeneration is opened, and the relation of our ſoul's ſon-ſhip to God, that Scripture had had ſome difficulty in it: but our ſecond birth is there clearly intended, in which ſenſe God is frequenlty called our Father, we his Sons, a new creature, born not of fleſh and blood, or by mans carnall affection, but by the will of God: and me thinks, that from theſe very Scriptures wee may elicite no contemptible deduction in fa<g ref="char:EOLhyphen"/>vour of the Souls proceſſe from the viſible Parent; arguing, That the ſubject of generation and re<g ref="char:EOLhyphen"/>generation
+<pb n="19" facs="tcp:57273:23"/>being the ſame, it is true Logick, if we ſay, Becauſe regenerate, therefore firſt gene<g ref="char:EOLhyphen"/>rated.</p>
+            <p>The other place of <hi>Eccleſiaſtes</hi> I confeſs is ſomthing more ſtrin<g ref="char:EOLhyphen"/>gent, and all the knots not eaſily looſed by the Propounders of it: For if the ſoul be there un<g ref="char:EOLhyphen"/>derſtood, the ſoules of wicked men ſhall go thither whence all Scripture hath debarr'd them. But it will be ſaid (without violence to Scripture) that all ſouls return to God, ſeated in his ſeveral thrones of judgment and mercy; to Gods love, or wrath; yet both to God.</p>
+            <p>
+               <hi>Anſ. ad</hi> 4.] What the return of the ſoul to God is, with the manner of it, I ſhall at this pre<g ref="char:EOLhyphen"/>ſent make no curious diſquiſi<g ref="char:EOLhyphen"/>tion:
+<pb n="20" facs="tcp:57273:24"/>But as to the purpoſe why this place is urged, I propoſe this more genuine interpretati<g ref="char:EOLhyphen"/>on. <hi>[The ſpirit ſhall return to him that gave it]</hi> (that is) to the firſt Author of that divine particle of breath inſpired to our firſt Father. And that this place re<g ref="char:EOLhyphen"/>lates to the firſt original of mans ſoule, and not all ſucceeding, that place in <hi>Zachary</hi> makes it very evident, where the effor<g ref="char:EOLhyphen"/>mation of the humane ſpirit is joined with the coagulation of the earth, and expanſion of the heavens. <hi>[Thus ſaith the Lord which ſtretcheth forth the heavens, and layeth the foundation of the earth, and formeth the ſpirit of man within him.]</hi>
+            </p>
+            <p>And in this very ſenſe we are frequently called in Holy Writ
+<pb n="21" facs="tcp:57273:24"/>duſt and aſhes; and yet from <hi>A<g ref="char:EOLhyphen"/>dam</hi> untill this time, fleſh hath begot fleſh.</p>
+            <p>Therefore the application muſt neceſſarily be, either to the ultimate terme of reſolution, or firſt matter of our bodies exi<g ref="char:EOLhyphen"/>ſtence.</p>
+            <p>There remains one place of Scripture, which is the ſword and ſpeare of thoſe that defend the continued creation of ſouls: and it is in the 21. of <hi>Exod. v.</hi> 22. the Septuagint render the place thus: <q>
+                  <hi>[If a man ſmite a woman, and the fruit come from her unfaſhion<g ref="char:EOLhyphen"/>ed, the ſmiter ſhall onely undergoe ſuch a mulct as the womans huſ<g ref="char:EOLhyphen"/>band ſhall ſet down: but if it come from her formed, ſoule ſhall be re<g ref="char:EOLhyphen"/>quired for ſoule.</hi>
+               </q>
+            </p>
+            <pb n="22" facs="tcp:57273:25"/>
+            <p>Hence (ſay they) it is evident, that the ſoul comes not into the body, till it have forme and fa<g ref="char:EOLhyphen"/>ſhion befitting ſuch a gueſt, and therefore not tranſmitted from the Parent, but firſt created, and then infuſed.</p>
+            <p>But certainly that argument bears neither weapon of offence nor defence: For be the ſoule either Gods immediate off<g ref="char:EOLhyphen"/>ſpring, or iſſue of an inferiour agent; maintain but no actual exiſtence before the completion of at leaſt the vital parts, the crime of murder ariſeth equally from both opinions.</p>
+            <p>Some, to fill up the number, are pleaſed further to argue, Gods being yet buſied in the creation of ſoules; from thoſe words of Chriſt related by St.
+<pb n="23" facs="tcp:57273:25"/>
+               <hi>John; [My Father worketh hither<g ref="char:EOLhyphen"/>to, and I work.]</hi> But to this I muſt needs anſwer, That theſe men, certainly, (except they take for granted, that God ſate idle till he rouſed himſelf up to the cre<g ref="char:EOLhyphen"/>ation of the world) intend only by this reaſoning to make the Reader ſport: yet if any will moroſely exact another anſwer, take this further reply, extreme<g ref="char:EOLhyphen"/>ly well proportioned to the rudeneſſe of the Argument.</p>
+            <p>
+               <hi>God doth as yet operate by his co<g ref="char:EOLhyphen"/>operating concourſe with the crea<g ref="char:EOLhyphen"/>tures, according to their ſeverall na<g ref="char:EOLhyphen"/>tures.</hi>
+            </p>
+            <p>Thus far haue Authorities of Holy Writ been examined: one Argument remains thought un<g ref="char:EOLhyphen"/>explicable, drawn jointly from Philoſophy and Divinity, by
+<pb n="24" facs="tcp:57273:26"/>the Patrons of the Soules infu<g ref="char:EOLhyphen"/>ſion: And this it is.</p>
+            <p>
+               <hi>Obj.</hi> 6.] If the ſoul be a natu<g ref="char:EOLhyphen"/>rall proceed, then either from the paternal or maternal ſeed, or both jointly. The mothers ſolely all reject: If only the fa<g ref="char:EOLhyphen"/>thers, it had been as good man had been alone: If both, then is the ſoule a compound, diviſible, mortal: beſides, if either both, or the paternal ſolely, from whence ſhall Chriſts ſoul be de<g ref="char:EOLhyphen"/>rived, who had no mortal fa<g ref="char:EOLhyphen"/>ther; And then by what rules of the Traduciaries Philoſophy ſhall we call Chriſt true man?</p>
+            <p>But let us retort this argu<g ref="char:EOLhyphen"/>ment, and ſo we ſhall ſoon finde that it hath more noiſe then force: change but the term of Body for Soule, and I ſhall
+<pb n="25" facs="tcp:57273:26"/>point the argument, as ſharp for our own purpoſe.</p>
+            <p>The body of man is either of paternal or maternal ſeed, or of both: none entitles the Mother ſolely; if onely the Father, or or both, whence was Chriſts body, who had no humane Fa<g ref="char:EOLhyphen"/>ther; or, how is he truly man? So the infuſiaſts muſt either leave this argument, or let the Body alſo partake in their high pri<g ref="char:EOLhyphen"/>viledge of immediate crea<g ref="char:EOLhyphen"/>tion.</p>
+            <p>But as to thoſe things which concern the Perſon of Chriſt, the Scripture poſeth mankinde with an explanation of his ge<g ref="char:EOLhyphen"/>neration: His Birth, Life and Death, being a ſucceſſive miracle, <hi>A God born, a man not begotten, a Virgin-Mother, the God of Life
+<pb n="26" facs="tcp:57273:27"/>himſelf ſuffering death.</hi> Theſe are horrid ſpectres to <hi>humane reaſon,</hi> and ſilences that god of man<g ref="char:EOLhyphen"/>kinde, amongſt the reſt of the Heathen Oracles.</p>
+            <p>All which conſidered, though they are a ſufficient confutation of the laſt recited argument, and exempt his birth from the Laws of inferiour creatures: yet to make the buſines more perſpicu<g ref="char:EOLhyphen"/>ous, I ſhall propoſe theſe three things.</p>
+            <p>Firſt, Though we determine that all Soules have a naturall production; yet we may, with<g ref="char:EOLhyphen"/>out any inconſiſtence, exempt the firſt and ſecond <hi>Adam:</hi> nor let any man wonder, that we here ſlip the cover from <hi>Prince Arthur</hi>'s Shield; ſince <hi>Gigantick</hi> inſtances are introduced, to o<g ref="char:EOLhyphen"/>ver-rule
+<pb n="27" facs="tcp:57273:27"/>the ordinary meaſures and proportions of the propa<g ref="char:EOLhyphen"/>gation of man-kinde.</p>
+            <p>Secondly, We affirm, that if Souls be proceeds from viſible agents, no valid objection hin<g ref="char:EOLhyphen"/>ders us from determining the original ſolely from the Fa<g ref="char:EOLhyphen"/>thers ſeed; yet with this con<g ref="char:EOLhyphen"/>ceſſion, that the concourſe of the woman is of abſolute neceſ<g ref="char:EOLhyphen"/>ſity to elicite from man the vital ferment, and to ſubſtantiate it into viſible exiſtence; which o<g ref="char:EOLhyphen"/>therwiſe would participate of the lot of the three miſcarrying handfuls of ſeed, mentioned by our Saviour, that brought no fruit to perfection: Adding fur<g ref="char:EOLhyphen"/>ther, That the mother is not much more aſſiſtant to the pro<g ref="char:EOLhyphen"/>duction of living Souls, then the
+<pb n="28" facs="tcp:57273:28"/>great Beldame <hi>Tellus</hi> (Mid-wit't by the Horns of <hi>Aries</hi>) is to her numerous progeny of Vegeta<g ref="char:EOLhyphen"/>tives.</p>
+            <p>Thirdly, For thoſe Bug-bears of Diviſibility and Mortality, that would haunt the poor Soul, if the father and mother were joint Parents of it; that cauſeth to ſound reaſon no matter of fear, ſo long as we free them from the power of any natural agent to reduce that poſſibility into act, ſubmitting it onely to the benigne ſtrength of Gods omnipotency.</p>
+            <p>Thus farre in favour of Tra<g ref="char:EOLhyphen"/>duction is ſufficient: One word concerning Creation of the Soule: for, when, what a Soule is, and what Creation is, is well underſtood, <hi>The night is paſt, and the day will appear.</hi>
+            </p>
+            <pb n="29" facs="tcp:57273:28"/>
+            <p>'Tis therefore carefully to be obſerved, that in every crea<g ref="char:EOLhyphen"/>ture partaking of that which we properly call Intellect, whether Man or Angel, there are three eſſentiall parts; <hi>Spirit, Soul</hi> and <hi>Body;</hi> the diſtinction of which might evidently be made ap<g ref="char:EOLhyphen"/>pear, by reaſon and ſacred Phi<g ref="char:EOLhyphen"/>loſophy, if we were not pin-folded within ſet limits of time.</p>
+            <p>By the Spirit, here, I under<g ref="char:EOLhyphen"/>ſtand not that common tye of the Body and the Soul; but the ſupreme region of man, or that divine principle, by the media<g ref="char:EOLhyphen"/>tion of which we have fellow<g ref="char:EOLhyphen"/>ſhip with God: nor by the Bo<g ref="char:EOLhyphen"/>dy, that unprofitable carcaſſe, but a concrete notion of the groſs ſpirits of ſenſe and vegeta<g ref="char:EOLhyphen"/>tion.
+<pb n="30" facs="tcp:57273:29"/>And by the Soule, (if we we may ſpeak as things are) I underſtand that middle Eſſence, placed betwixt that heavenly, and that brutal ſpirit: but in this preſent controverſie, the word Soule comprehends a Hotch-potch of all theſe; and all that is purely oppoſed to the Body, is in this controverſie cal<g ref="char:EOLhyphen"/>ed Soul.</p>
+            <p>As for the notion of Crea<g ref="char:EOLhyphen"/>tion, that which the Schoolmen and their followers obtrude up<g ref="char:EOLhyphen"/>on us, [<hi>viz.</hi> that 'tis a framing of ſomething out of nothing] wants both truth and reaſon to ſupport it; for the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the original tongue and holy writ, from whence the word Creation was firſt taken up, hath no ſuch ſignification; but per<g ref="char:EOLhyphen"/>petually
+<pb n="33" facs="tcp:57273:29"/>eternall; to wit, God, and the great deep; that is to ſay, an infinite immeaſurable ſpace, in every imaginable point whereof dwelt the whole Deity.</p>
+            <p>Secondly, This Deep, or more truly called <hi>ſpace-infinite,</hi> in all dimenſions, is not purely no<g ref="char:EOLhyphen"/>thing; ſeeing two points divers from each other, might in it be aſſigned, in which God was able to create ſo many worlds; and a line extended from the one to the other would a be meaſure of the diſtance of one from the other: and al<g ref="char:EOLhyphen"/>though this ſpace be not quan<g ref="char:EOLhyphen"/>tity particularly determinate; yet ſeeing that of two lines drawn in it, that is to be ſaid the longer, that takes up more
+<pb n="34" facs="tcp:57273:30"/>parts of this Deep: from hence it may challenge all the deno<g ref="char:EOLhyphen"/>minations of quantity and di<g ref="char:EOLhyphen"/>menſion.</p>
+            <p>Thirdly, Although that this bottomleſſe Immenſurable par<g ref="char:EOLhyphen"/>take (next under God) moſt highly of the reality of being, yet is it not God himſelf, be<g ref="char:EOLhyphen"/>cauſe its diviſibility and ſeverall other properties are diametri<g ref="char:EOLhyphen"/>cally oppoſite to the many at<g ref="char:EOLhyphen"/>tributes of the perfect Divine life and eſſence; And therefore in an apt ſignification it may be termed the Body of the Deity, or more fitly, the eternal habi<g ref="char:EOLhyphen"/>tation of the Godhead.</p>
+            <p>Fourthly, To this Deep or Abyſſe may be attributed all what the Philoſophers aſcribe to their <hi>Materia Prima,</hi> to wit,
+<pb n="35" facs="tcp:57273:30"/>that it is neither <hi>quid, quantum,</hi> nor <hi>quale;</hi> to wit, none of theſe in a definite eſſence or tircum<g ref="char:EOLhyphen"/>ſcrib'd figure or ſhape, but inter<g ref="char:EOLhyphen"/>minately all. The meaning of which is, <q>That the narrow ſpeech and expreſſions of man<g ref="char:EOLhyphen"/>kind, with which they mea<g ref="char:EOLhyphen"/>ſure out and circumſcribe their finite eſſences, applied to this Infinite, are too narrow, nay contradictory in the e<g ref="char:EOLhyphen"/>nunciation of it, and extend onely to declaration of a ne<g ref="char:EOLhyphen"/>gative glimpſe of its unima<g ref="char:EOLhyphen"/>ginable vaſtneſſe.</q> Yet foure properties are eſpecially aſſign'd to this Abyſſe.</p>
+            <p>
+               <list>
+                  <item>1. Deſire and inclination to corporeity, or a force con<g ref="char:EOLhyphen"/>tracting, crudling and con<g ref="char:EOLhyphen"/>ſtringing.</item>
+                  <pb n="36" facs="tcp:57273:31"/>
+                  <item>2. Contrary to this, a force impetuouſly reſiſting coagula<g ref="char:EOLhyphen"/>tion.</item>
+                  <item>3. From the joynt ſtrife of theſe, ariſeth a ſpirit of anguiſh, gnawing the bowels of the firſt matter.</item>
+                  <item>4. A great burning or pit<g ref="char:EOLhyphen"/>chy dark fire.</item>
+               </list>
+            </p>
+            <p>Of all theſe properties of the eternall Abyſſe, I can with eaſe make a viſible reſemblance, in the conflict of Mettals, with Waters corroſive, eſpecially in the diſſolution of Iron with the oyle of Vitriol, or in the coa<g ref="char:EOLhyphen"/>gulation of the oyle of Vitriol by Iron; for the worke is one and the ſame.</p>
+            <p>Here, upon the inſtant of the infuſion of the oyle, the coagu<g ref="char:EOLhyphen"/>lative ſpirit of <hi>Mars</hi> and <hi>Venus,</hi>
+               <pb n="37" facs="tcp:57273:31"/>begins to worke to a ſweet em<g ref="char:EOLhyphen"/>bracement of each other, and marriage into one body; but almoſt in the very ſame mo<g ref="char:EOLhyphen"/>ment, ariſeth another furious force impatient of this union and incorporation, ejecting both water and oyle with ſud<g ref="char:EOLhyphen"/>den violence over the brim of the higheſt Cucurbit; and from this conflict of the conſtrictive power with the contrary ſpi<g ref="char:EOLhyphen"/>rit, a third force ariſeth, which grates thoſe hard filings of Iron into a ſoft and tender Chryſtal; and fourthly, followeth that darke fire without chearing light, yet ſenſible by the adven<g ref="char:EOLhyphen"/>turous hand of him that dares touch the glaſſe.</p>
+            <p>Whoſoever ſhall curiouſly be<g ref="char:EOLhyphen"/>hold this combate, may well per<g ref="char:EOLhyphen"/>ceive
+<pb n="38" facs="tcp:57273:32"/>the hideous ſtormes of the vaſt Ocean, depainted to the moſt exact poſſibility of ſo ſmall an Epitome, and ſmelling thoſe rancid fumes diſperſed through<g ref="char:EOLhyphen"/>out the roome (ſuch as are ſaid in the <hi>Apocalypſe</hi> to aſcend from the bottomleſſe pit) belcht out from this whirpoole, I believe he ſhall need no further illuſtra<g ref="char:EOLhyphen"/>tion of the Poets <hi>Tartarus,</hi> or the Chriſtians <hi>Hell;</hi> having with ſome difficulty eſcaped ſtifling, with overlooking this ſo well<g ref="char:EOLhyphen"/>limb'd a Breviate. And to de<g ref="char:EOLhyphen"/>clare my thoughts plainly, I ac<g ref="char:EOLhyphen"/>count that part of this great A<g ref="char:EOLhyphen"/>byſſe from whence God ſhall re<g ref="char:EOLhyphen"/>tire himſelfe within his own Center, to be truly Hell; but do not believe, that before the fall of <hi>Lucifer</hi> it did break forth in<g ref="char:EOLhyphen"/>to
+<pb n="39" facs="tcp:57273:32"/>its helliſh actuality, but was ſo becalm'd by the benigne ef<g ref="char:EOLhyphen"/>fluence of the all-preſent Deity, that it greatly further'd the ma<g ref="char:EOLhyphen"/>nifeſtation of the eternal God<g ref="char:EOLhyphen"/>head.</p>
+            <p>Fifthly; Out of the friendly wreſtling of the beams flowing from the Center of the Deity, and the properties of the eter<g ref="char:EOLhyphen"/>nal Immenſe or Abyſſe, there ariſeth (let the Reader under<g ref="char:EOLhyphen"/>ſtand that our expreſſions deſig<g ref="char:EOLhyphen"/>native of a time, muſt be under<g ref="char:EOLhyphen"/>ſtood from all eternity) a <hi>maje<g ref="char:EOLhyphen"/>ſtatick light</hi> filling all this infinite ſpace; A ſlight reſemblance of which we may perceive in our fire; which when it hath dige<g ref="char:EOLhyphen"/>ſted the darkneſſe of its nouriſh<g ref="char:EOLhyphen"/>ment, triumphs in a radiant flame, having wrought through
+<pb n="40" facs="tcp:57273:33"/>the clung priſon of dark mat<g ref="char:EOLhyphen"/>ter.</p>
+            <p>This light, or at leaſt its vital and chearing rayes breathing a ſweet gale through the circuit of the infinite Abyſſe, the holy Scripture, eſpecially the Apo<g ref="char:EOLhyphen"/>cryphal book of <hi>Solomon</hi> called by the name of <hi>Wiſdome.</hi>
+            </p>
+            <p>Sixthly; Hence it may truly be affirmed, that there was from all eternity, is, and ſhall be a di<g ref="char:EOLhyphen"/>vine World, whoſe omnipreſent Center is the Eternall Unity, whoſe body and ſoule is the A<g ref="char:EOLhyphen"/>byſſe, and its ſpirit is the divine Wiſdome it ſelf, born of God the everlaſting Father, and of its mother the Abyſſe; by which name I underſtand not any of the Divine Attributes, but a cer<g ref="char:EOLhyphen"/>tain Eſſence on all parts eternal,
+<pb n="41" facs="tcp:57273:33"/>living, intelligent, inferior only in dignity to the eternal Unity, from whence this divine world hath all its ornament and vari<g ref="char:EOLhyphen"/>ety, and in which as in a glaſſe God hath from all eternity had a lively and moſt delightful pro<g ref="char:EOLhyphen"/>ſpect of his own lovely viſage, and incomprehenſible beauty.</p>
+            <p>And now I deſire the Auditors would attend whither all theſe notions carry them. We have hitherto explained the firſt two Principles only: by the firſt, I underſtand the eternall Abyſſe; by the ſecond, the Wiſdome, ſuch as we have clearly deſcribed.</p>
+            <p>From theſe two principles it pleaſed the higheſt Creator, after infinite revolutions of Eternity, to create another world, to wit, the Angelical, diſtinguiſhed into
+<pb n="42" facs="tcp:57273:34"/>three Regions, like a neſt of ſpheres, whoſe inhabitants were Angels, ſevered into three Hie<g ref="char:EOLhyphen"/>rarchies. The middle, and ful<g ref="char:EOLhyphen"/>leſt of Light which is now our World, was the habitation of Lucifer and his Angels; whoſe Souls and Bodies, as likewiſe of all other Angels, were from the Abyſſe; their Spirit, from the fruitfull womb of the Eter<g ref="char:EOLhyphen"/>nal Wiſdome.</p>
+            <p>This Lucifer, beautifulleſt of all the reſt, and who reſembled (after whoſe Image, its like, he was made) the Son of God, with his Legions: contemning the Milk of Gods divine Breaſt, which was ordained to be the food and ſupport of his ſpirit; by an enormous appetite look<g ref="char:EOLhyphen"/>ed downward, for the ſuſte<g ref="char:EOLhyphen"/>nance
+<pb n="43" facs="tcp:57273:34"/>of his life, to the menſtru<g ref="char:EOLhyphen"/>ous efflux of the Nurſe and Mo<g ref="char:EOLhyphen"/>ther of his two inferiour Prin<g ref="char:EOLhyphen"/>ciples, whereby his minde and will was choaked, and his An<g ref="char:EOLhyphen"/>gelick wings lim'd in unpro<g ref="char:EOLhyphen"/>portionable mire. By this means, the Spirit of Wiſdome, whoſe ſweet rayes before had temper'd the bitter corroſions of the foure properties of the <hi>Matrix,</hi> being ſtifled and extinct, the ſore-recited properties of the Abyſſe budded forth and flouriſhed in their naturall vi<g ref="char:EOLhyphen"/>gour, by whoſe dark and filthy fumes thoſe proud Spirits be<g ref="char:EOLhyphen"/>ing intoxicated, fell then, and ſtill fall, (being in a bottom<g ref="char:EOLhyphen"/>leſſe) into this following irre<g ref="char:EOLhyphen"/>coverable condition.</p>
+            <p>Firſt, A deſire to appro<g ref="char:EOLhyphen"/>priate
+<pb n="44" facs="tcp:57273:35"/>the beauty of all the other Hierarchies; yea, of the whole Deity to themſelves. This ari<g ref="char:EOLhyphen"/>eth from the contractive and co<g ref="char:EOLhyphen"/>agulative power of the Abyſſe.</p>
+            <p>Secondly, To aſpire beyond the limits of the whole Crea<g ref="char:EOLhyphen"/>tion; and to erect themſelves a Throne in the Higheſt, where<g ref="char:EOLhyphen"/>by they might ſubject God and all their fellow-creatures to a footſtoole of their feet.</p>
+            <p>This deſire began from the ſecond Property, which vio<g ref="char:EOLhyphen"/>lently reſiſts Coagulation or Confinement, and whoſe mo<g ref="char:EOLhyphen"/>tions are alwaies from the Cen<g ref="char:EOLhyphen"/>ter to the Circumference; for they ſcorned to be pin-folded within the created Spheres, but would make themſelves in all points equall to the
+<pb n="45" facs="tcp:57273:35"/>immenſe and infinite Creator.</p>
+            <p>Thirdly, When this violent riſing received a check by the limits wherein God had ſet all created Being; there aroſe from the aforenam'd Properties, a ſpirit of anguiſh and envy, gnawing it ſelf.</p>
+            <p>Fourthly, and laſtly, broke forth that ſmoldering heat of darke fire; whoſe proud force filled all their Region with flames and ſmoak, and ſulphu<g ref="char:EOLhyphen"/>rous tempeſt.</p>
+            <p>And here you may ſee the firſt originall of ſinne, and Hell-fire; eſpecially thoſe foure Baſes, or corner-ſtones upon which 'tis founded; <hi>Covetouſnes, Pride, Envy,</hi> and <hi>Wrath;</hi> For from theſe apo<g ref="char:EOLhyphen"/>ſtate Souls the ſpirit had retired to its manſion. God had with<g ref="char:EOLhyphen"/>drawn
+<pb n="46" facs="tcp:57273:36"/>drawn himſelf to his own Cen<g ref="char:EOLhyphen"/>ter; the Wiſdomes ſweet light becalm'd the raging Deep, or properties of the Abyſſe, no more: and what now remains, but that theſe unhappy bran<g ref="char:EOLhyphen"/>ches fallen from that commu<g ref="char:EOLhyphen"/>nion with the Divine ſtock, con<g ref="char:EOLhyphen"/>tinue in their own ſphere, the eternal fewel of the fire them<g ref="char:EOLhyphen"/>ſelves have kindled.</p>
+            <p>And now at laſt, not without much toile under the difficul<g ref="char:EOLhyphen"/>ty of expreſſing theſe unheard of Notions, we are arriv'd at a known Land, deſcrib'd ofold by the Poets, to wit, the <hi>Chaos;</hi> the ancienteſt terme from whence they deduce all their ſtory: really, no figment, but a true adumbration of the top<g ref="char:EOLhyphen"/>ſie-turvie Regiment of Rebelli<g ref="char:EOLhyphen"/>ous
+<pb n="47" facs="tcp:57273:36"/>Lucifer in this mundane ſpace, before this new Creation. And we may well ſuppoſe, th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t by the ſtrength of this venome, (the fel force of which we feel in our ſelves) the other Hierar<g ref="char:EOLhyphen"/>chies had ſoon been infected, had not Gods ſeaſonable right arme check't this <hi>magick</hi> va<g ref="char:EOLhyphen"/>pour.</p>
+            <p>For the Eternal Father, un<g ref="char:EOLhyphen"/>willing that ſo large a ſpace, de<g ref="char:EOLhyphen"/>ſtined above the reſt for a ſeat of glory, ſhould eternally be bereft of his good influence; and himſelf fruſtrate of his bounti<g ref="char:EOLhyphen"/>full purpoſe to communicate happineſſe to ſo many creatures on this ſtage, applied himſelf by his powerfull word to ap<g ref="char:EOLhyphen"/>peaſe theſe tumults, (that is) created this ſenſible World out
+<pb n="48" facs="tcp:57273:37"/>of that diſordered heap.</p>
+            <p>And firſt of all, He digeſted thoſe particles or atoms of craſs matter (congealed by the con<g ref="char:EOLhyphen"/>ſtringing force of the Abyſſe) into one body, or (if we may ſpeak with the <hi>Copernicans</hi>) into ſeverall opake ſpheres, ſepara<g ref="char:EOLhyphen"/>ting them from the fluid matter: and this is called in Scripture, the Creation of Heaven &amp; Earth. Then proceeding, he gathered the darkneſſe which was diſperſt through the whole Luciferian region, together with its Au<g ref="char:EOLhyphen"/>thor, into a narrow compaſſe, framing thereof a ſtiffe dungeon for a receptacle of their all-comprehending Pride. And this in Scripture is called the Cre<g ref="char:EOLhyphen"/>ation of Light, and the work of the firſt day. And this was the
+<pb n="49" facs="tcp:57273:37"/>firſt victory over <hi>Lucifer.</hi>
+            </p>
+            <p>It would take up too much time to recite all the degrees of conqueſt: but it is moſt cleare by the ſeries of divine ſtory, that the holy Spirit of God deſiſted not from his conflict with this <hi>Chaos,</hi> before it had perfected an abſolute victory, and overcome all the enflamed dark matter, captivating it to ſome peculiar uſe ſubſervient to the neceſſities or ornament of this world, the temple and habitation of man<g ref="char:EOLhyphen"/>kind.</p>
+            <p>And it is worthy our obſer<g ref="char:EOLhyphen"/>vation, that God, after the per<g ref="char:EOLhyphen"/>fection of every dayes work, did with the whole Quire of Angels ſing a triumphant ſong over the ſpoils of repulſed Hell; of which himſelfe beares witneſſe in the
+<pb n="50" facs="tcp:57273:38"/>book of <hi>Job.</hi> And it is probable that the Seventh day being the utter ſubduing of the Luciferian tyrannie, rendred that day a day of ſongs and jubilation to all created beings. And although what I am about to ſay, will be received with deriſion; yet I ſhall utter my thoughts with freedome, to wit, That the 148. Pſalm, and the 104. were in the ſeventh day, that great day of triumph, (and perhaps in all ſucceeding Sabbaths) carol'd out by the Angels, and after<g ref="char:EOLhyphen"/>wards dictated to the holy Pro<g ref="char:EOLhyphen"/>phets, that Gods will might be done on earth, as it is in heaven. But if the naming of <hi>Iſrael,</hi> and other expreſſions of the like na<g ref="char:EOLhyphen"/>ture in theſe Pſalms, ſhould be to any man an occaſion of the
+<pb n="51" facs="tcp:57273:38"/>diſreliſh of this opinion; Let that man know, that there was an <hi>Iſrael</hi> in Heaven, before <hi>Jacob</hi> was borne; and a Tabernacle, from whence <hi>Moſes</hi>-his was co<g ref="char:EOLhyphen"/>pied out: And who-ſo reads the Song of the Angels at our Saviour Chriſts birth, and com<g ref="char:EOLhyphen"/>pares it with <hi>Davids</hi> Pſalms, he will judge them both compoſed for one Quire, and ſent down from thence to be learnt by thoſe holy ſouls which ſhal be thought worthy to aſſiſt that Muſick.</p>
+            <p>
+               <hi>But this is but a Notion</hi> en paſ<g ref="char:EOLhyphen"/>ſant: <hi>I return to the matter in hand</hi> You had before a delineation of the two firſt Principles: and now out of what hath been laſt delivered, you may frame to your ſelves a definition of the third Principle.</p>
+            <pb n="52" facs="tcp:57273:39"/>
+            <p>For under that name I com<g ref="char:EOLhyphen"/>prehend the Spirit, and Body, yea the whole Compages of this our late created ſenſible world. And now as I conceive, it ſuf<g ref="char:EOLhyphen"/>ficiently appeareth, that Creati<g ref="char:EOLhyphen"/>on was not out of nothing; and you likewiſe underſtand what I mean by the Three Principles; the firſt and ſecond of which, namely the <hi>Abyſſe,</hi> and the <hi>Wiſe<g ref="char:EOLhyphen"/>dome,</hi> are on all parts eternal, and all things proceeding from them are finally eternal and im<g ref="char:EOLhyphen"/>mortal; but what proceeds or is created out of the third Prin<g ref="char:EOLhyphen"/>ciple, is as it ſelf, frail and mor<g ref="char:EOLhyphen"/>tal</p>
+            <p>
+               <hi>That I may therefore touch the matter at laſt, at which all theſe No<g ref="char:EOLhyphen"/>tions are levelled.</hi>
+            </p>
+            <p>After the region of <hi>Lucifer</hi> was
+<pb n="53" facs="tcp:57273:39"/>again made habitable, and he re<g ref="char:EOLhyphen"/>legated into ſublunary darknes; it ſeemed good to the Creatour to create in his place another <hi>Hierarch,</hi> who with his numer<g ref="char:EOLhyphen"/>ous progenie might people this Region, the dominion and poſ<g ref="char:EOLhyphen"/>ſeſſion whereof, the former by his tranſgreſſion had forfeited. And that was <hi>Adam;</hi> who though in reference to the predominant part of his compoſition, he he called Earth of Earth, yet it is very probable that every one of the Elements yielded of its fineſt parts, to the compoſure of ſo goodly a Fabrick.</p>
+            <p>But whether in the begining, his body were ſo groſſe &amp; dark, ſuch as we now weare, or rather ſuch as we hope for in the Re<g ref="char:EOLhyphen"/>ſurrection, I am not yet ſatisfied with my ſelf.</p>
+            <pb n="54" facs="tcp:57273:40"/>
+            <p>But concerning theſe myſte<g ref="char:EOLhyphen"/>ries, with the ſleep of <hi>Adam,</hi> and formation of <hi>Eve,</hi> they concern not the matter in hand.</p>
+            <p>Into this body of <hi>Adam,</hi> per<g ref="char:EOLhyphen"/>fect in all parts, God breathed the breath of life; by which breath, if we ingenuouſly com<g ref="char:EOLhyphen"/>pare Scriptures, we muſt neceſ<g ref="char:EOLhyphen"/>ſarily underſtand the threefold life iſſuing from the three fore<g ref="char:EOLhyphen"/>mentioned Principles; to wit, The life of the Spirit, from the Wiſdome; the life of the Soule, from the Abyſſe; the life of the Body, from the Mundane ſpirit: by the mediation of all which, he is enabled to communicate with all the three Worlds. And although the life of the Spirit did (according to Gods juſt commination) fall aſleep in <hi>A<g ref="char:EOLhyphen"/>dam;</hi>
+               <pb n="55" facs="tcp:57273:40"/>yea ſo deep aſleep, that (he being in truth dead as to that ſpirit, and it as to him) it is in Scripture called death; yet did it not utterly periſh, but is to<g ref="char:EOLhyphen"/>gether with the body and ſoules conveyed from our firſt parents into their poſterity; aſleep ſtill, except it be revived and re<g ref="char:EOLhyphen"/>enlivened in that great myſteri<g ref="char:EOLhyphen"/>ous work of the Regeneration, after the conſumation of which we are able by its miniſtry to ſearch the hidden things of the Deity. For as being carried in the chariot of the Worlds ſpirit with the five attendant Senſes, we view all its frame, and know its motions: ſo by our Soul we have a proſpect into the eternal Abyſſe; and by the Spirit, into the magick glaſſe of the Wiſdom
+<pb n="56" facs="tcp:57273:41"/>and depth of the Deity: and herein is our dignity above the brute beaſts, whoſe compoſition participates onely of the laſt principle; we, beſides that, of the firſt and ſecond.</p>
+            <p>But if any man wonder that three ſuch noble and ſpiritual Eſſences ſhould croud themſelvs up into ſo mean and contempti<g ref="char:EOLhyphen"/>ble a vehicle, and not preſſe into freedome; let that man likewiſe conſider and begin firſt to won<g ref="char:EOLhyphen"/>der, that ſuch a ſpiritual and vi<g ref="char:EOLhyphen"/>vacious eſſence as the Soul is by all ſuppoſed to be, ſhould be coop'd in ſo pervious a cask as the Body is; and know, that that full-grown bulk is as un<g ref="char:EOLhyphen"/>proportionable to her greatnes, as this contemptible Epitome. And let this be a further anſwer:
+<pb n="57" facs="tcp:57273:41"/>
+               <q>That the Spirit which out<g ref="char:EOLhyphen"/>ſtretched the branches of the muſtard-tree that our Saviour ſpeaks of, in which the fowls of the aire made their neſts, ſate with as much elbow-room in that ſmalleſt of ſeeds from whence that greateſt ſprung.</q>
+            </p>
+            <p>Further more they affirm, that this threefold life is not yet actu<g ref="char:EOLhyphen"/>ally and viſibly exiſtent, no more then the body, ſuch as it appears afterwards in all its dimenſions; but that therein are three roots of ſubſtances lodged, which in proceſſe of time bud forth to<g ref="char:EOLhyphen"/>gether with the Body into a th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e fold life: where if any dark impervious matter hinder their joint progreſſe, each retires to its mother-Ocean from whence it iſſued.</p>
+            <pb n="58" facs="tcp:57273:42"/>
+            <p>Theſe things premiſed, and well weighed, it will not be difficult to determine either of the Creation or Traduction of Soules; when the terme and manner of both, well under<g ref="char:EOLhyphen"/>ſtood, differ in no real concern<g ref="char:EOLhyphen"/>ment. For ſeeing we have pro<g ref="char:EOLhyphen"/>ved that Creation neither is, nor ever was from nothing; I un<g ref="char:EOLhyphen"/>derſtand not why we may not affirm, that both Body and Soul were and are created by God, but of matter derived from the Pa<g ref="char:EOLhyphen"/>rents: But the Soul, not of that viſible and ſenſible, which the obtuſe beams of our Senſes can penetrate, but ſuch as diſappears from all material anatomy. Yet if any man ſhall think that theſe opinions in this are ſtil at odds, in that an immediate creation
+<pb n="59" facs="tcp:57273:42"/>and infuſion of the ſoul is main<g ref="char:EOLhyphen"/>tained by the one; The other builds it by the ſame hand, but mediately and of ſecondary ma<g ref="char:EOLhyphen"/>terials:</p>
+            <p>This difference too will be eaſily reconciled: for we affirm (and doubt not to an unbiaſs'd judgment to prove it) that both our bodies and ſoules do yet as immediately proceed from God as that of our firſt father <hi>Adam.</hi> A great illuſtration of the mat<g ref="char:EOLhyphen"/>ter in hand, is that viſion of <hi>Eze<g ref="char:EOLhyphen"/>kiel,</hi> of the dry bones timbred into bodies, and inſpired with life. It is in the 37. Chapter of <hi>Ezekiel,</hi> from the firſt to the e<g ref="char:EOLhyphen"/>leventh verſe.</p>
+            <list>
+               <item>1. <hi>The hand of the Lord was up<g ref="char:EOLhyphen"/>on me, and carried me out in the ſpirit of the Lord, and ſet me down in the
+<pb n="60" facs="tcp:57273:43"/>midſt of the valley, which was fill of bones.</hi>
+               </item>
+               <item>2. <hi>And cauſed me to paſſe by them ro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd about, end behold there were very many in the open valley, and lo they were very dry.</hi>
+               </item>
+               <item>3. <hi>And he ſaid unto me, Son of man, can theſe bones live? And I anſwered, O Lord God thou knoweſt.</hi>
+               </item>
+               <item>4. <hi>Again he ſaid unto me, Pro<g ref="char:EOLhyphen"/>phecie upon theſe dry bones, and ſay unto them, O ye dry bones heare the word of the Lord.</hi>
+               </item>
+               <item>5. <hi>Thus ſaith the Lord God unto theſe bones, behold I will cauſe breath to enter into you, and you ſhall live.</hi>
+               </item>
+               <item>6. <hi>And I will lay ſinewes upon you, and will bring up fleſh upon you, and cover you with skin, and pul breath in you, and ye ſhall live, and ye ſhall know that I am the Lord.</hi>
+               </item>
+               <item>7. <hi>So I prophecied as I was com<g ref="char:EOLhyphen"/>manded;
+<pb n="61" facs="tcp:57273:43"/>and as I prophecied, there was a noiſe, and behold a ſhaking, and the bones came together bone to his bone.</hi>
+               </item>
+               <item>8. <hi>And when I beheld, lo the ſinewes and the fleſh came up upon them, and the skin covered them a<g ref="char:EOLhyphen"/>bove, but there was no breath in them.</hi>
+               </item>
+               <item>9. <hi>Then ſaid he unto me, Pro<g ref="char:EOLhyphen"/>pheſie unto the wind, propheſie ſon of man, and ſay to the wind, Thus ſaith the Lord God, come from the four winds, ô breath, and breath upon theſe ſlain that they may live.</hi>
+               </item>
+               <item>10. <hi>So I prophe ied as he com<g ref="char:EOLhyphen"/>manded me, and the breath came in<g ref="char:EOLhyphen"/>to them, and they lived and ſtood upon their feet an exceeding great Army.</hi>
+               </item>
+            </list>
+            <p>In this Viſion is ſhadowed forth (though the primary ſcope was a thing different from both) not onely the Reſurrection,
+<pb n="62" facs="tcp:57273:44"/>but the Creation alſo; though I conceive that the life of the Third Principle only activated theſe bones, which (the Viſion ended) returned to its fountain: and as God out of them did cre<g ref="char:EOLhyphen"/>ate living men, and breathed in<g ref="char:EOLhyphen"/>to them the breath of life by the miniſtration of the wind, and not his own mouth; ſo in the relation of the firſt forming of <hi>Adam,</hi> the Scripture puts Gods actions in the garment and po<g ref="char:EOLhyphen"/>ſture of humane, deſcending to our mean capacities, expreſſing Gods actions like ours: Not that it is to be imagined he ſtood over like a man tempering his clay, or kneading a piece of dough; into which being ſhaped into a humane figure, he ſhould in a poſture ridiculous for us to
+<pb n="63" facs="tcp:57273:44"/>fancy, breathe life into his no<g ref="char:EOLhyphen"/>ſtrils; but 'tis rather probable, that as man by the mediation of the Microcoſmick ſpirit inhabi<g ref="char:EOLhyphen"/>ting the ſeed caſt into the womb generates his like; ſo (God in like manner ordaining it) the Earth impregnated by the ſpirit of this world lodged in the ve<g ref="char:EOLhyphen"/>hicle of the Elements and influ<g ref="char:EOLhyphen"/>ences of the Stars, brought forth a quinteſſence, which, nouriſhed in the womb of ſome dark cave, grew in few houres to the per<g ref="char:EOLhyphen"/>fect dimenſions of a body: then, a ſpirit or wind blown from the lungs of the threefold World, animated its compleated mem<g ref="char:EOLhyphen"/>bers, whereby at laſt the man broke through the dark entrails of the Earth, as a chicken its ſhel, or an infant the wombe of its mother.</p>
+            <pb n="64" facs="tcp:57273:45"/>
+            <p>And I doubt not at all, but that if ſome young Scripling, unbiaſs'd by any forme or prin<g ref="char:EOLhyphen"/>ciple, had been an eye-witneſſe of <hi>Adam's</hi> birth, he would have deem'd him a meer ſon of the Earth, as not being able to reach that inviſible Principle, that moves the groſſe matter, and is the original of life.</p>
+            <p>Since then, to affirm <hi>Adam</hi> to be created by God and inſpired by him, and withall to be framed out of the duſt and animated by the wind, are no repugnancies; <q>and what ſeems to us, or is recorded to be done by the mediation of viſible Agents, is but Gods inward power diſ<g ref="char:EOLhyphen"/>guiſed in a cloud:</q>
+            </p>
+            <p>We conclude,
+<pb n="65" facs="tcp:57273:45"/>
+               <hi>That the Soule's Traduction from the Parents, and its Cre<g ref="char:EOLhyphen"/>ation by God; are not onely either of them probable, but both true.</hi>
+            </p>
+            <p>Notwithſtanding.
+<hi>If we will ſpeak in the dia<g ref="char:EOLhyphen"/>lect of Angels (which the Scri<g ref="char:EOLhyphen"/>pture often uſeth) we affirm they are created of GOD: If with the tongues of men, They are an off-ſpring of their Fathers loines.</hi>
+            </p>
+            <pb n="66" facs="tcp:57273:46"/>
+            <p>ANd now at laſt (moſt wor<g ref="char:EOLhyphen"/>thy VICE CHANCELLOR, with the reſt of this grave Aſ<g ref="char:EOLhyphen"/>ſembly, and hopeful Youth) having ſailed over this ſturdy ſea of Diſputation, touching by the way at ſeveral ſhores of the Intellectual world, and diſco<g ref="char:EOLhyphen"/>vering many unknown Regions of the Soule; our ſhip is at laſt entred its wiſhed haven, torne and weather-beaten, yet ſafe<g ref="char:EOLhyphen"/>moor'd upon the Jetty of your favour.</p>
+            <p>And if as yet your benummed thighs are not crampt in your uneaſeful ſeat; If ſleep, the har<g ref="char:EOLhyphen"/>binger of the approaching even<g ref="char:EOLhyphen"/>ing, have not ſet his leaden paw upon your eye-lids: We muſt be thankful to your vivid patience, that hath with ſo much ſpirit
+<pb n="67" facs="tcp:57273:46"/>attended our droning words.</p>
+            <p>Theſe heavenly Dainties that have been by your Servants in this dayes Exerciſe preſented unto you, according to our mean poverty, in a Woodden Diſh; be pleaſed to pardon, and guild with your divine accept<g ref="char:EOLhyphen"/>ance.</p>
+            <p>One thing only remains to be further deſired: That theſe pre<g ref="char:EOLhyphen"/>gnant Young-men (who have to day adorned this Philoſo<g ref="char:EOLhyphen"/>phick Scene with the flagrant flowers of their Wits) together with thoſe graver men, who have done far above the reach of my praiſe, may have their de<g ref="char:EOLhyphen"/>ſerved applauſe and thanks di<g ref="char:EOLhyphen"/>ſtributed by your hands; My ſelf, in the ſenſe of my failings, kneeling under the ſame for my
+<pb n="68" facs="tcp:57273:47"/>pardon; that if any error which may have overſlipt my h<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dleſſe tongue, have diſpleaſed you, you may be appeaſed by this ſubmiſſion.</p>
+            <p>So ſhall the gentle gale of your clemencie tranſmit a new Soule into my overwearied and faint<g ref="char:EOLhyphen"/>ing Spirits.</p>
+            <p>This ſhall be my ſecond birth<g ref="char:EOLhyphen"/>day; and the native characters of your favour, no ſtupifying ſtreames of oblivion ſhall be able to blot out,</p>
+            <p>And laſtly, 'twill appear more clear then by natures noon-day-light, That all this Dayes per<g ref="char:EOLhyphen"/>formance hath received its life and acceptation, not from the poverty of our merit, but from the royal Mine of your Can<g ref="char:EOLhyphen"/>dor.</p>
+            <pb n="69" facs="tcp:57273:47"/>
+            <p>Theſe things if (which I doubt not) I ſhall be ſo happy as to ob<g ref="char:EOLhyphen"/>tain, then I who was the firſt that bid you welcome to this place, ſhall with the ſame cheir<g ref="char:EOLhyphen"/>fulneſſe bid this Honourable Aſ<g ref="char:EOLhyphen"/>ſembly the laſt <hi>Farewell.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57273:48"/>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:57273:48"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Novemb.</hi> 20. 1649.</date>
+               </dateline> 
+               <signed>J. Downame.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
